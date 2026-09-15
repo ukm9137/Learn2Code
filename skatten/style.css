@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#treasure {
+    position: absolute;
+    font-size: 60px;
+    cursor: pointer;
+}
